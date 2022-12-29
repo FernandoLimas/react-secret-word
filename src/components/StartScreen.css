@@ -1,0 +1,11 @@
+.start h1 {
+    font-size: 3.5em;
+    font-family: Helvetica;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.start p {
+    margin-bottom: 2em;
+    color: #e9fa00;
+}
